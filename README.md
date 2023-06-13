@@ -21,7 +21,8 @@ Data Model
 
 Home Page 
 
-![image](https://github.com/DaKyleeeee/Business-Insight-360/assets/119737029/4947608d-6192-4d29-b330-2c217f2b8b05)
+![bs 1](https://github.com/DaKyleeeee/Business-Insight-360/assets/119737029/0923b70d-fe66-4093-bc6c-f2ec78949aca)
+
 
 Finance View
 
